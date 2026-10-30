@@ -1,0 +1,90 @@
+[
+  {
+    "id": "paracetamol",
+    "productName": "Paracetamol",
+    "genericName": "Paracetamol (acetaminophen)",
+    "uses": "A common medicine used to reduce fever and relieve mild to moderate pain such as headaches or body aches.",
+    "warnings": "Do not take more than the label says. Too much paracetamol can seriously damage the liver. Avoid other products that also contain paracetamol.",
+    "directions": "Follow the product label or a pharmacist's instructions exactly. This page does not give a personal dose.",
+    "activeIngredients": "Paracetamol / acetaminophen",
+    "sourceUrl": "https://open.fda.gov/apis/drug/label/",
+    "source": "fallback"
+  },
+  {
+    "id": "ibuprofen",
+    "productName": "Ibuprofen",
+    "genericName": "Ibuprofen",
+    "uses": "A non-steroidal anti-inflammatory medicine used for pain, fever, and swelling.",
+    "warnings": "Can irritate the stomach. Avoid if you have certain stomach, kidney, or heart conditions unless a clinician says it is safe.",
+    "directions": "Take with food if the label says so. Follow the label or a pharmacist's instructions.",
+    "activeIngredients": "Ibuprofen",
+    "sourceUrl": "https://open.fda.gov/apis/drug/label/",
+    "source": "fallback"
+  },
+  {
+    "id": "cetirizine",
+    "productName": "Cetirizine",
+    "genericName": "Cetirizine hydrochloride",
+    "uses": "An antihistamine used for allergy symptoms such as sneezing, runny nose, and itchy eyes.",
+    "warnings": "May cause drowsiness in some people. Avoid driving or risky activity if you feel sleepy.",
+    "directions": "Follow the label or a pharmacist's instructions. Do not combine with other sedating medicines without advice.",
+    "activeIngredients": "Cetirizine hydrochloride",
+    "sourceUrl": "https://open.fda.gov/apis/drug/label/",
+    "source": "fallback"
+  },
+  {
+    "id": "amoxicillin",
+    "productName": "Amoxicillin",
+    "genericName": "Amoxicillin",
+    "uses": "An antibiotic used to treat certain bacterial infections.",
+    "warnings": "Antibiotics do not work on viral illnesses like the common cold. Only use when prescribed. Finish the course as directed.",
+    "directions": "Use only under a clinician's prescription. Follow their instructions exactly.",
+    "activeIngredients": "Amoxicillin",
+    "sourceUrl": "https://open.fda.gov/apis/drug/label/",
+    "source": "fallback"
+  },
+  {
+    "id": "metformin",
+    "productName": "Metformin",
+    "genericName": "Metformin hydrochloride",
+    "uses": "A medicine used to help manage blood sugar in type 2 diabetes, alongside diet and activity.",
+    "warnings": "Only use when prescribed. Tell your clinician about kidney problems or if you become very unwell or dehydrated.",
+    "directions": "Follow the prescription exactly. Do not change the dose yourself.",
+    "activeIngredients": "Metformin hydrochloride",
+    "sourceUrl": "https://open.fda.gov/apis/drug/label/",
+    "source": "fallback"
+  },
+  {
+    "id": "salbutamol",
+    "productName": "Salbutamol",
+    "genericName": "Salbutamol (albuterol)",
+    "uses": "A reliever inhaler medicine that opens the airways in asthma.",
+    "warnings": "Needing your reliever more often than usual can be a sign of worsening asthma. Seek medical advice.",
+    "directions": "Use exactly as prescribed and as taught by a clinician. This page does not replace an asthma action plan.",
+    "activeIngredients": "Salbutamol sulfate",
+    "sourceUrl": "https://open.fda.gov/apis/drug/label/",
+    "source": "fallback"
+  },
+  {
+    "id": "omeprazole",
+    "productName": "Omeprazole",
+    "genericName": "Omeprazole",
+    "uses": "A medicine that reduces stomach acid, used for heartburn and certain stomach conditions.",
+    "warnings": "Long-term use should be discussed with a clinician. It can interact with other medicines.",
+    "directions": "Follow the label or a clinician's instructions. Swallow capsules whole unless told otherwise.",
+    "activeIngredients": "Omeprazole",
+    "sourceUrl": "https://open.fda.gov/apis/drug/label/",
+    "source": "fallback"
+  },
+  {
+    "id": "ors",
+    "productName": "Oral Rehydration Salts (ORS)",
+    "genericName": "Oral rehydration solution",
+    "uses": "A mixture of salts and sugar in water used to replace fluids lost through diarrhoea or vomiting.",
+    "warnings": "Severe dehydration, blood in stool, or persistent vomiting needs medical care. Follow the packet instructions for mixing.",
+    "directions": "Mix exactly as the packet says with clean water. Do not add extra sugar or salt.",
+    "activeIngredients": "Sodium chloride, potassium chloride, sodium citrate, glucose",
+    "sourceUrl": "https://www.who.int/publications/i/item/9789241549356",
+    "source": "fallback"
+  }
+]

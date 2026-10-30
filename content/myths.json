@@ -1,0 +1,110 @@
+[
+  {
+    "id": "m-butter",
+    "claim": "You should put butter on a burn to help it heal.",
+    "verdict": "myth",
+    "explanation": "Butter, oil, or toothpaste trap heat in the burn and can cause infection. Cool running water is the safe first step.",
+    "whyItMatters": "Using the wrong home remedy can turn a small burn into a worse injury.",
+    "source": "NHS — Burns and scalds",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "m-5sec",
+    "claim": "If you pick food up within 5 seconds, it is safe to eat.",
+    "verdict": "myth",
+    "explanation": "Bacteria can transfer to food almost instantly. The 5-second rule is not a real safety rule.",
+    "whyItMatters": "Foodborne germs can cause stomach upset and more serious illness.",
+    "source": "USDA — Food safety myths",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "m-sugar",
+    "claim": "Sugar makes children hyperactive.",
+    "verdict": "myth",
+    "explanation": "Studies do not show that sugar causes hyperactivity. Excitement at parties and expectations often explain the behaviour.",
+    "whyItMatters": "Blaming sugar can hide other reasons for behaviour and lead to unnecessary restrictions.",
+    "source": "NIH — Sugar and behaviour research",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "m-knuckles",
+    "claim": "Cracking your knuckles causes arthritis.",
+    "verdict": "myth",
+    "explanation": "The pop is gas bubbles in the joint fluid. Research has not found a link between knuckle cracking and arthritis.",
+    "whyItMatters": "Knowing the real cause helps you judge health claims instead of fearing normal body sounds.",
+    "source": "Arthritis Foundation",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "m-swim",
+    "claim": "You must wait an hour after eating before swimming.",
+    "verdict": "myth",
+    "explanation": "There is no evidence that swimming after eating is dangerous. Avoid very large meals right before hard exercise, but normal eating is fine.",
+    "whyItMatters": "Old rules can stop people enjoying safe activity.",
+    "source": "American Red Cross — Water safety",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "m-shave",
+    "claim": "Shaving makes hair grow back thicker and darker.",
+    "verdict": "myth",
+    "explanation": "Shaving cuts hair at the surface. It does not change the root, so regrowth is not thicker. Short hair can simply feel coarser.",
+    "whyItMatters": "This myth causes unnecessary worry about normal grooming.",
+    "source": "Mayo Clinic",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "m-brain",
+    "claim": "Humans only use 10% of their brains.",
+    "verdict": "myth",
+    "explanation": "Brain scans show that people use virtually all of their brain, with different areas active for different tasks.",
+    "whyItMatters": "The 10% myth can be used to sell fake 'brain training' products.",
+    "source": "Scientific American — Brain myths",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "m-cold",
+    "claim": "Being cold or wet gives you a cold.",
+    "verdict": "myth",
+    "explanation": "Colds are caused by viruses, not by cold weather. Cold weather may keep people indoors where viruses spread more easily.",
+    "whyItMatters": "Knowing the real cause helps you focus on handwashing and rest.",
+    "source": "CDC — Common cold",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "m-vitc",
+    "claim": "Vitamin C prevents colds in most people.",
+    "verdict": "myth",
+    "explanation": "For most people, vitamin C does not prevent colds. It may slightly shorten a cold in some cases, but it is not a shield.",
+    "whyItMatters": "Relying on supplements can distract from proven habits like sleep and hand hygiene.",
+    "source": "Cochrane Review — Vitamin C and colds",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "m-antibiotic",
+    "claim": "Antibiotics cure the common cold.",
+    "verdict": "myth",
+    "explanation": "Colds are caused by viruses, and antibiotics only fight bacteria. Using them unnecessarily can cause resistance.",
+    "whyItMatters": "Antibiotic resistance is a serious global health problem.",
+    "source": "WHO — Antibiotic resistance",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "f-handwash",
+    "claim": "Washing hands with soap reduces the spread of many infections.",
+    "verdict": "fact",
+    "explanation": "Soap and water remove germs from your hands. It is one of the simplest and most effective health habits.",
+    "whyItMatters": "Handwashing protects you and the people around you, at school and at home.",
+    "source": "WHO — Hand hygiene",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "f-seatbelt",
+    "claim": "Wearing a seatbelt lowers the risk of serious injury in a crash.",
+    "verdict": "fact",
+    "explanation": "Seatbelts stop your body from moving forward violently and spread the force across stronger parts of the body.",
+    "whyItMatters": "Seatbelts save lives, even on short trips.",
+    "source": "WHO — Road safety",
+    "reviewedAt": "2026-10-30"
+  }
+]

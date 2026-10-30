@@ -1,0 +1,162 @@
+[
+  {
+    "id": "fa-burn-1",
+    "topic": "Burns",
+    "difficulty": "easy",
+    "prompt": "A friend spills hot tea on their hand. The skin is red and painful but not blistered. What should you do first?",
+    "choices": [
+      "Cool the hand under cool running water for about 20 minutes",
+      "Rub butter or toothpaste on the burn",
+      "Press ice directly onto the skin",
+      "Pop any small blisters that form"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cool running water removes heat and limits damage. Never use ice, butter, or toothpaste — they can damage the skin or trap heat. Remove rings or tight items before swelling starts.",
+    "source": "Indian Red Cross Society — First Aid basics",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "fa-bleed-1",
+    "topic": "Bleeding",
+    "difficulty": "easy",
+    "prompt": "Someone has a deep cut that is bleeding heavily. What is the best first step?",
+    "choices": [
+      "Press firmly on the wound with a clean cloth or dressing",
+      "Wash the wound under a tap for several minutes",
+      "Apply a tourniquet immediately",
+      "Ask them to shake the hand to clean it"
+    ],
+    "answerIndex": 0,
+    "explanation": "Firm direct pressure stops most bleeding. Add more cloth on top if it soaks through instead of removing it. Call emergency services if bleeding will not stop or the wound is deep.",
+    "source": "WHO — Basic emergency care",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "fa-choke-1",
+    "topic": "Choking",
+    "difficulty": "medium",
+    "prompt": "A person is conscious but cannot speak or breathe, and is clutching their throat. What should you do?",
+    "choices": [
+      "Give up to 5 back blows between the shoulder blades, then 5 abdominal thrusts",
+      "Give them a glass of water",
+      "Lay them flat and wait",
+      "Put your fingers deep into their throat without looking"
+    ],
+    "answerIndex": 0,
+    "explanation": "Back blows and abdominal thrusts can dislodge the object. If they become unresponsive, call emergency services and start CPR. Never do blind finger sweeps.",
+    "source": "American Red Cross — Choking response",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "fa-cpr-1",
+    "topic": "CPR basics",
+    "difficulty": "medium",
+    "prompt": "An adult is unresponsive and not breathing normally. What is the correct order?",
+    "choices": [
+      "Call emergency services, then start chest compressions",
+      "Give them water, then wait for them to wake up",
+      "Start compressions only after 5 minutes",
+      "Place them in a sitting position"
+    ],
+    "answerIndex": 0,
+    "explanation": "Call for help immediately and begin chest compressions hard and fast in the centre of the chest. CPR keeps blood moving until professional help arrives.",
+    "source": "WHO — Basic emergency care",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "fa-nose-1",
+    "topic": "Nosebleed",
+    "difficulty": "easy",
+    "prompt": "A classmate has a nosebleed. What should they do?",
+    "choices": [
+      "Sit upright, lean slightly forward, and pinch the soft part of the nose",
+      "Tilt the head backwards and lie down",
+      "Blow the nose hard repeatedly",
+      "Stuff tissue deep into the nostrils"
+    ],
+    "answerIndex": 0,
+    "explanation": "Leaning forward stops blood running down the throat. Pinch the soft part of the nose for about 10 minutes without checking. Seek help if it does not stop.",
+    "source": "NHS — Nosebleed first aid",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "fa-sprain-1",
+    "topic": "Sprains",
+    "difficulty": "easy",
+    "prompt": "Someone twists their ankle and it starts to swell. Which approach is recommended?",
+    "choices": [
+      "Rest, ice, gentle compression, and elevation",
+      "Keep walking on it to stretch it out",
+      "Apply heat immediately",
+      "Massage the ankle firmly"
+    ],
+    "answerIndex": 0,
+    "explanation": "RICE (rest, ice, compression, elevation) reduces swelling and pain. Use a cloth between ice and skin. Get medical advice if they cannot bear weight.",
+    "source": "NHS — Sprains and strains",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "fa-seizure-1",
+    "topic": "Seizures",
+    "difficulty": "medium",
+    "prompt": "A person is having a seizure. What is the safest thing to do?",
+    "choices": [
+      "Protect their head, move hard objects away, and time the seizure",
+      "Hold their arms and legs still",
+      "Put a spoon in their mouth",
+      "Give them water during the seizure"
+    ],
+    "answerIndex": 0,
+    "explanation": "Do not restrain them or put anything in their mouth. Cushion the head and clear the area. Call emergency services if the seizure lasts over 5 minutes or they are injured.",
+    "source": "Epilepsy Foundation — Seizure first aid",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "fa-heat-1",
+    "topic": "Heat illness",
+    "difficulty": "medium",
+    "prompt": "Someone is hot, confused, and has stopped sweating on a very hot day. What should you do?",
+    "choices": [
+      "Move them to a cool place, cool their skin, and call emergency services",
+      "Give them a hot drink and let them rest in the sun",
+      "Make them run to cool down",
+      "Wait until they feel better"
+    ],
+    "answerIndex": 0,
+    "explanation": "These can be signs of heat stroke, which is an emergency. Cool them quickly with shade, water, and airflow while help is on the way.",
+    "source": "WHO — Heat and health",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "fa-poison-1",
+    "topic": "Poisoning",
+    "difficulty": "medium",
+    "prompt": "A child has swallowed a household cleaning liquid. What should you do?",
+    "choices": [
+      "Call emergency services or a poison helpline and follow their advice",
+      "Make the child vomit",
+      "Give them milk to neutralise it",
+      "Wait to see if symptoms appear"
+    ],
+    "answerIndex": 0,
+    "explanation": "Do not induce vomiting — it can cause more damage. Keep the container and call for expert advice immediately.",
+    "source": "WHO — Poison prevention",
+    "reviewedAt": "2026-10-30"
+  },
+  {
+    "id": "fa-shock-1",
+    "topic": "Electric shock",
+    "difficulty": "medium",
+    "prompt": "Someone is touching a live electrical wire. What must you do first?",
+    "choices": [
+      "Switch off the power at the source before touching them",
+      "Pull them away with your bare hands",
+      "Throw water on the wire",
+      "Ask them to let go and walk away"
+    ],
+    "answerIndex": 0,
+    "explanation": "Never touch a person who may still be in contact with electricity. Turn off the power first, then call emergency services.",
+    "source": "Red Cross — Electrical safety",
+    "reviewedAt": "2026-10-30"
+  }
+]

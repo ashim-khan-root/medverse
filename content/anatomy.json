@@ -1,0 +1,79 @@
+[
+  {
+    "id": "brain",
+    "name": "Brain",
+    "system": "Nervous system",
+    "color": "lavender",
+    "hotspot": { "x": 50, "y": 11 },
+    "whatItIs": "The control centre of the body, made of billions of nerve cells.",
+    "whereItIs": "Protected inside the skull at the top of your head.",
+    "whatItDoes": "Thinking, memory, movement, emotions, and controlling automatic actions like breathing.",
+    "relatedIds": ["heart", "lungs"]
+  },
+  {
+    "id": "heart",
+    "name": "Heart",
+    "system": "Circulatory system",
+    "color": "coral",
+    "hotspot": { "x": 45, "y": 32 },
+    "whatItIs": "A strong muscle about the size of your fist.",
+    "whereItIs": "In the middle of your chest, slightly to the left.",
+    "whatItDoes": "Pumps blood around the body, carrying oxygen and nutrients to every cell.",
+    "relatedIds": ["lungs", "brain"]
+  },
+  {
+    "id": "lungs",
+    "name": "Lungs",
+    "system": "Respiratory system",
+    "color": "sky",
+    "hotspot": { "x": 57, "y": 30 },
+    "whatItIs": "Two spongy organs that fill with air.",
+    "whereItIs": "On either side of the heart inside the rib cage.",
+    "whatItDoes": "Take in oxygen and remove carbon dioxide when you breathe.",
+    "relatedIds": ["heart", "brain"]
+  },
+  {
+    "id": "stomach",
+    "name": "Stomach",
+    "system": "Digestive system",
+    "color": "peach",
+    "hotspot": { "x": 42, "y": 42 },
+    "whatItIs": "A stretchy bag-like organ.",
+    "whereItIs": "On the left side of the upper belly.",
+    "whatItDoes": "Mixes food with acid and enzymes to start breaking it down.",
+    "relatedIds": ["liver"]
+  },
+  {
+    "id": "liver",
+    "name": "Liver",
+    "system": "Digestive system",
+    "color": "sun",
+    "hotspot": { "x": 58, "y": 40 },
+    "whatItIs": "The largest organ inside the body.",
+    "whereItIs": "Under the ribs on the right side of the belly.",
+    "whatItDoes": "Filters blood, stores energy, and helps digest food.",
+    "relatedIds": ["stomach"]
+  },
+  {
+    "id": "kidneys",
+    "name": "Kidneys",
+    "system": "Urinary system",
+    "color": "mint",
+    "hotspot": { "x": 62, "y": 46 },
+    "whatItIs": "Two bean-shaped organs.",
+    "whereItIs": "Toward the back, just below the rib cage on each side.",
+    "whatItDoes": "Filter waste and extra water from blood to make urine.",
+    "relatedIds": ["liver"]
+  },
+  {
+    "id": "skeleton",
+    "name": "Skeleton",
+    "system": "Skeletal system",
+    "color": "grape",
+    "hotspot": { "x": 50, "y": 64 },
+    "whatItIs": "The framework of 206 bones.",
+    "whereItIs": "Throughout the body, joined at the joints.",
+    "whatItDoes": "Supports the body, protects organs, and helps you move.",
+    "relatedIds": ["brain", "heart"]
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "water", "label": "Drink water", "icon": "droplet", "accent": "sky", "active": true },
+  { "id": "move", "label": "Movement break", "icon": "activity", "accent": "mint", "active": true },
+  { "id": "sleep", "label": "Sleep routine", "icon": "moon", "accent": "lavender", "active": true },
+  { "id": "screen", "label": "Screen break", "icon": "smartphone", "accent": "peach", "active": true },
+  { "id": "read", "label": "Read 10 pages", "icon": "book", "accent": "sun", "active": true }
+]

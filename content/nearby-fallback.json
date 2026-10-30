@@ -1,0 +1,78 @@
+{
+  "city": "New Delhi",
+  "center": { "lat": 28.6315, "lng": 77.2167 },
+  "places": [
+    {
+      "id": "fb-pharmacy-1",
+      "name": "MediCare Pharmacy — Connaught Place",
+      "type": "pharmacy",
+      "lat": 28.6328,
+      "lng": 77.2197,
+      "address": "Inner Circle, Connaught Place, New Delhi",
+      "source": "fallback"
+    },
+    {
+      "id": "fb-pharmacy-2",
+      "name": "Wellness Chemist — Janpath",
+      "type": "pharmacy",
+      "lat": 28.628,
+      "lng": 77.2195,
+      "address": "Janpath Road, New Delhi",
+      "source": "fallback"
+    },
+    {
+      "id": "fb-pharmacy-3",
+      "name": "Apollo Pharmacy — Barakhamba Road",
+      "type": "pharmacy",
+      "lat": 28.63,
+      "lng": 77.223,
+      "address": "Barakhamba Road, New Delhi",
+      "source": "fallback"
+    },
+    {
+      "id": "fb-pharmacy-4",
+      "name": "Jan Aushadhi Kendra — Baba Kharak Singh Marg",
+      "type": "pharmacy",
+      "lat": 28.627,
+      "lng": 77.21,
+      "address": "Baba Kharak Singh Marg, New Delhi",
+      "source": "fallback"
+    },
+    {
+      "id": "fb-clinic-1",
+      "name": "City Health Clinic — Connaught Place",
+      "type": "clinic",
+      "lat": 28.634,
+      "lng": 77.218,
+      "address": "Outer Circle, Connaught Place, New Delhi",
+      "source": "fallback"
+    },
+    {
+      "id": "fb-clinic-2",
+      "name": "Community Care Clinic — Gole Market",
+      "type": "clinic",
+      "lat": 28.635,
+      "lng": 77.205,
+      "address": "Gole Market, New Delhi",
+      "source": "fallback"
+    },
+    {
+      "id": "fb-hospital-1",
+      "name": "Dr. RML Hospital — Emergency",
+      "type": "hospital",
+      "lat": 28.6395,
+      "lng": 77.208,
+      "address": "Baba Kharak Singh Marg, New Delhi",
+      "source": "fallback"
+    },
+    {
+      "id": "fb-hospital-2",
+      "name": "General Hospital — Connaught Lane",
+      "type": "hospital",
+      "lat": 28.629,
+      "lng": 77.222,
+      "address": "Connaught Lane, New Delhi",
+      "source": "fallback"
+    }
+  ]
+}
