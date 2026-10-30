@@ -26,6 +26,7 @@ licence; nothing here changes those terms.
 | openFDA drug label API | Public domain (US government work) | General medicine label sections |
 | OpenStreetMap | ODbL 1.0 — © OpenStreetMap contributors | Nearby pharmacy/clinic/hospital data and map tiles |
 | Nominatim | OpenStreetMap data under ODbL; usage policy applies | City/area geocoding |
+| Google Gemini (optional) | Google AI terms | Plain-language explanation of medical reports and X-ray descriptions |
 | Overpass API | OpenStreetMap data under ODbL | Querying nearby places |
 
 ## Illustrations
